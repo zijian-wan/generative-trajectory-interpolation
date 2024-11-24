@@ -1,4 +1,4 @@
-# Generative trajectory interpolation
+# A Generative Trajectory Interpolation Method for Imputing Gaps in Wildlife Movement Data
 This is a trajectory interpolation model based on long short-term memory (LSTM) and generative adversarial network (GAN) that takes as an input a trajectory containing a gap (i.e., a sequence of missing tracking points) and outputs the interpolated complete trajectory.
 ![](https://github.com/zijian-wan/generative-trajectory-interpolation/blob/0153c07860be5797e2c8c809f5b01c25c3a283ce/figures/archt.png)
 
